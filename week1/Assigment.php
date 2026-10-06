@@ -1,9 +1,6 @@
 <?php
 
-// ==========================================
 // PHP ASSIGNMENT 1
-// ==========================================
-
 
 // 1. Greatest and Smallest of Three Numbers
 echo "<h3>1. Greatest and Smallest</h3>";
